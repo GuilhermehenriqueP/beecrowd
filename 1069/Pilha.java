@@ -12,9 +12,9 @@ public class Pilha {
     }
 
 
-    public void push(char e){
+    public void push(char i){
         topo++;
-        elementos[topo] = e;
+        elementos[topo] = i;
     }
     public char pop(){
         if(isEmpty()){
