@@ -24,12 +24,6 @@ public class Solution{
         System.out.println(mes +  "Mes(es)");
         System.out.println(dias +  " Dia(s)");
 
-
-
-
-
-
-
         teclado.close();
 
     }
